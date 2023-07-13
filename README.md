@@ -20,8 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [see solution](https://github.com/justinvanre/single-price-grid-component)
-- Live Site URL: [see live site](https://justinvanre.github.io/single-price-grid-component/)
+- Live Site URL: [see live site](https://justinvanre.github.io/single-price-grid-component).
 
 ### Built with
 
